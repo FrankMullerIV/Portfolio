@@ -15,20 +15,23 @@ Bachelor of Science in Computer Science - Southern New Hampshire University
 Completing coursework throughout my Computer Science program has allowed me to develop and demonstrate the skills needed to be an effective software engineer. During the program I’ve cultivated professional values, learned technical skills, and thoroughly practiced critical thinking and problem solving.
 </p>
 
+<p>Skills I’ve developed and practiced within the CS program include:</p>
+
 <h3>Collaboration/Teamwork</h3>
 <ul>
-  <li>Collaboration with SDLC frameworks: Agile, Waterfall, Scrum</li>
+  <li>Collaboration within SDLC frameworks: Agile, Waterfall, Scrum</li>
   <li>Communication between Designers, Developers, and Stakeholders</li>
   <li>Architectures including Client-Server, Model-View-Controller, RESTful APIs</li>
   <li>Software design documentation, README design, UML diagram design</li>
-  <li>UX/UI requirements gathering, interviewing, integrating feedback</li>
+  <li>Requirements gathering, interviewing, translating needs into functional code, integrating feedback</li>
 </ul>
 
 <h3>Data Structures and Algorithms</h3>
 <ul>
   <li>Iterative and Recursive Sorting (Bubble, Insertion, Merge, Quick)</li>
-  <li>Binary Search Trees, Hash Maps/Tables, Vectors, Lists, Linked Lists</li>
-  <li>Runtime analysis and selecting optimal algorithms for given applications</li>
+  <li>Binary Trees, Hash Maps/Tables, Vectors, Lists, Linked Lists, Graphs, Heaps, Stacks</li>
+  <li>Runtime analysis, selecting optimal algorithms/structures for a given application</li>
+  <li>Depth/Breadth-first search, Dijkstra's Algorithm, Prim's Algorithm</li>
 </ul>
 
 <h3>Software Engineering</h3>
