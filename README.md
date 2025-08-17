@@ -85,8 +85,8 @@ TODO: Add link to full narrative
 <h3>Enhancement 2 – Algorithms & Data Structures</h3>
 <ul>
   <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <li><strong>Original:</strong> <a href="artifact2">Link to original code</a></li>
-  <li><strong>Enhanced:</strong> <a href="artifact2">Link to enhanced code</a></li>
+  <img src="images/artifact2_before.png" alt="Artifact 2 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+  <img src="images/artifact2_after.png" alt="Artifact 2 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
 </ul>
 <p>
 Brief description of algorithmic improvements, efficiency gains, and skills demonstrated.
@@ -95,30 +95,14 @@ Brief description of algorithmic improvements, efficiency gains, and skills demo
 <h3>Enhancement 3 – Databases</h3>
 <ul>
   <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <li><strong>Original:</strong> <a href="artifact3">Link to original code</a></li>
-  <li><strong>Enhanced:</strong> <a href="artifact3">Link to enhanced code</a></li>
+  <img src="images/artifact3_before.png" alt="Artifact 3 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+  <img src="images/artifact3_after.png" alt="Artifact 3 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
 </ul>
 <p>
 Brief description of database enhancements, technologies used, and skills demonstrated.
 </p>
 
 <hr>
-
-<h2>Course Outcomes Alignment</h2>
-<ol>
-  <li>Collaborative environments</li>
-  <li>Professional communication</li>
-  <li>Design and evaluate computing solutions</li>
-  <li>Apply innovative computing techniques</li>
-  <li>Develop a security mindset</li>
-</ol>
-
-<hr>
-
-<h2>Additional Work (Optional)</h2>
-<p>
-Links to extra projects, certifications, or other relevant professional work.
-</p>
 
 <hr>
 
