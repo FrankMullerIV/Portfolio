@@ -66,15 +66,14 @@ These artifacts and the app itself showcase my skills in full stack development,
   <li><strong>Enhanced:</strong> <a href="artifacts/artifact1/enhanced/">View Enhanced Code</a></li>
 </ul>
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
-  <div style="flex: 1; text-align: center;">
-    <p><strong>Before</strong></p>
-    <img src="images/artifact1_before.png" alt="Artifact 1 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <p><strong>After</strong></p>
-    <img src="images/artifact1_after.png" alt="Artifact 1 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
-  </div>
+<div style="margin: 20px 0; text-align: center;">
+  <p><strong>Before</strong></p>
+  <img src="images/artifact1_before.png" alt="Artifact 1 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 20px;">
+
+  <p><strong>After</strong></p>
+  <img src="images/artifact1_after.png" alt="Artifact 1 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+</div>
+
 </div>
 
 <p>
