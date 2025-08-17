@@ -49,9 +49,6 @@ Completing coursework throughout my Computer Science program has allowed me to d
 
 <p>
 My three artifacts are all from my Android app <strong>Ingredient Explorer</strong>, which is designed to give a quick summary of a food product’s healthiness and let users learn about unfamiliar ingredients. In the app, users scan food item barcodes and it retrieves a list of the product’s ingredients, color-coded by natural/artificial status. Users can click an ingredient to view a summary of what it is, what it’s for, and any health considerations surrounding it.
-</p>
-
-<p>
 These artifacts and the app itself showcase my skills in full stack development, creating a design wireframe and implementing it with databases, algorithms, and UI for a functional application.
 </p>
 
@@ -68,7 +65,7 @@ These artifacts and the app itself showcase my skills in full stack development,
 </ul>
 
 <p>
-TODO: Add concise description of narrative/artifact description/summary
+This enhancement expanded my Ingredient Explorer app to support scanning Walmart QR codes in addition to standard UPC barcodes, enabling the app to extract the product’s UPC and return its full ingredient list. It demonstrates my ability to identify real-world usability gaps, research solutions, and implement functional code enhancements to improve user experience.
 </p>
 
 <table>
@@ -95,10 +92,6 @@ TODO: Add concise description of narrative/artifact description/summary
   </tr>
 </table>
 
-<p>
-TODO: Brief description of the artifact, enhancements made, and skills demonstrated.
-</p>
-
 <h3>Algorithms & Data Structures</h3>
 <ul>
   <li><strong>Artifact:</strong> Ingredient Explorer – Optical Character Recognition</li>
@@ -107,7 +100,7 @@ TODO: Brief description of the artifact, enhancements made, and skills demonstra
   </ul>
 
 <p>
-TODO: Add concise description of narrative/artifact description/summary
+This enhancement added OCR functionality to my app, allowing users to capture ingredient lists from product labels with their camera instead of relying only on UPC lookups. It highlights my ability to process unstructured real-world data, clean it algorithmically, and integrate it seamlessly into an existing system.
 </p>
 
 <table>
@@ -125,10 +118,6 @@ TODO: Add concise description of narrative/artifact description/summary
   </tr>
 </table>
 
-<p>
-TODO: Brief description of algorithmic improvements, efficiency gains, and skills demonstrated.
-</p>
-
 
 <h3>Databases</h3>
 <ul>
@@ -138,7 +127,7 @@ TODO: Brief description of algorithmic improvements, efficiency gains, and skill
   </ul>
 
 <p>
-TODO: Add concise description of narrative/artifact description/summary
+This enhancement expanded the Ingredient Explorer database to support European Ingredient codes aka E-numbers, allowing users to view correct ingredient descriptions for food additives listed by code (e.g., E213 refers to Calcium Benzoate). It demonstrates my ability to maintain and adapt databases with real-world data and ensure compatibility with international ingredient standards.
 </p>
 
 <table>
@@ -154,15 +143,12 @@ TODO: Add concise description of narrative/artifact description/summary
   </tr>
 </table>
 
-<p>TODO: Brief description of database enhancements, technologies used, and skills demonstrated.</p>
-
-
 <hr>
 
 <h2>Contact</h2>
 <p>
 <a href="mailto:frank.muller@snhu.edu">frank.muller@snhu.edu</a><br>
-<a href="#">GitHub Profile</a>
+<a href="https://github.com/FrankMullerIV">GitHub Profile</a>
 </p>
-
 </div>
+<div></div>
