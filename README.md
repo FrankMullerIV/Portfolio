@@ -127,7 +127,7 @@ This enhancement added OCR functionality to my app, allowing users to capture in
   </ul>
 
 <p>
-This enhancement expanded the Ingredient Explorer database to support European Ingredient codes aka E-numbers, allowing users to view correct ingredient descriptions for food additives listed by code (e.g., E213 refers to Calcium Benzoate). It demonstrates my ability to maintain and adapt databases with real-world data and ensure compatibility with international ingredient standards.
+This enhancement expanded the Ingredient Explorer database to support European Ingredient codes aka E-numbers, allowing users to view correct ingredient descriptions for food additives listed by code (e.g., E213 refers to Calcium Benzoate). It demonstrates my ability to maintain and adapt databases with real-world data and ensure compatibility with international standards.
 </p>
 
 <table>
