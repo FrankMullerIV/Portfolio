@@ -1,7 +1,7 @@
 <div style="font-family: Arial, sans-serif; max-width: 900px; margin: auto; line-height: 1.6; color: #333;">
 
 <h1 style="text-align: center; border-bottom: 2px solid #ddd; padding-bottom: 5px;">
-Frank Muller – Computer Science ePortfolio
+Frank Muller – CS ePortfolio
 </h1>
 
 <p style="text-align: center; font-size: 1.1em;">
@@ -59,7 +59,7 @@ These artifacts and the app itself showcase my skills in full stack development,
 
 <h2>Enhanced Artifacts</h2>
 
-<h3>Enhancement 1 – Software Design & Engineering</h3>
+<h3>Software Design & Engineering</h3>
 <ul>
   <li><strong>Artifact:</strong> Ingredient Explorer – UI & Architecture</li>
   <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact1/Artifact1%20QR%20Codes%20Narrative.pdf">Enhancement Narrative</a></li>
@@ -81,26 +81,34 @@ TODO: Add concise description of narrative/artifact description/summary
   </tr>
   <tr>
     <td style="text-align:center; padding:10px;">
-      <p><strong>After</strong></p>
+      <p><strong>After (App Implementation)</strong></p>
       <img src="images/artifact1_after.png" alt="Artifact 1 After" 
+           style="max-width:100%; border:1px solid #ccc; border-radius:6px;">
+    </td>
+  </tr>
+    <tr>
+    <td style="text-align:center; padding:10px;">
+      <p><strong>QR Scanning Enhancement</strong></p>
+      <img src="images/artifact1_after2.png" alt="Artifact 1 After2" 
            style="max-width:100%; border:1px solid #ccc; border-radius:6px;">
     </td>
   </tr>
 </table>
 
 <p>
-Brief description of the artifact, enhancements made, and skills demonstrated.
+TODO: Brief description of the artifact, enhancements made, and skills demonstrated.
 </p>
 
-
-
-
-<h3>Enhancement 2 – Algorithms & Data Structures</h3>
+<h3>Algorithms & Data Structures</h3>
 <ul>
-  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact2">Artifact Code / Files</a></li>
-  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact2/Artifact2%20OCR%20Narrative.pdf">Artifact Enhancement Narrative</a></li>
-  <li><strong>Artifact:</strong> <em>Project Name</em></li>
-</ul>
+  <li><strong>Artifact:</strong> Ingredient Explorer – Optical Character Recognition</li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact2/Artifact2%20OCR%20Narrative.pdf">Enhancement Narrative</a></li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact2">View Files</a></li>
+  </ul>
+
+<p>
+TODO: Add concise description of narrative/artifact description/summary
+</p>
 
 <table>
   <tr>
@@ -118,22 +126,26 @@ Brief description of the artifact, enhancements made, and skills demonstrated.
 </table>
 
 <p>
-Brief description of algorithmic improvements, efficiency gains, and skills demonstrated.
+TODO: Brief description of algorithmic improvements, efficiency gains, and skills demonstrated.
 </p>
 
 
-<h3>Enhancement 3 – Databases</h3>
+<h3>Databases</h3>
 <ul>
-  <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact3">Artifact Code / Files</a></li>
-  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact3/Artifact3%20E%20Number%20Narrative.pdf">Artifact Enhancement Narrative</a></li>
-</ul>
+  <li><strong>Artifact:</strong> Ingredient Explorer – E-Number Database Upgrade</li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact3/Artifact3%20E%20Number%20Narrative.pdf">Enhancement Narrative</a></li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact3">View Files</a></li>
+  </ul>
+
+<p>
+TODO: Add concise description of narrative/artifact description/summary
+</p>
 
 <table>
   <tr>
     <td style="text-align:center;">
       <p><strong>Before</strong></p>
-      <img src="images/artifact3_before.png" alt="Artifact 3 Before" />
+      <img src="images/artifact3_before2.png" alt="Artifact 3 Before" />
     </td>
     <td style="text-align:center;">
       <p><strong>After</strong></p>
@@ -142,10 +154,8 @@ Brief description of algorithmic improvements, efficiency gains, and skills demo
   </tr>
 </table>
 
-<p>Brief description of database enhancements, technologies used, and skills demonstrated.</p>
+<p>TODO: Brief description of database enhancements, technologies used, and skills demonstrated.</p>
 
-
-<hr>
 
 <hr>
 
