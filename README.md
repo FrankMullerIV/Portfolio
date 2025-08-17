@@ -71,14 +71,14 @@ This enhancement expanded my Ingredient Explorer app to support scanning Walmart
 <table>
   <tr>
     <td style="text-align:center; padding:10px;">
-      <p><strong>Before (Design Wireframe)</strong></p>
+      <p><strong>Original Design Wireframe</strong></p>
       <img src="images/artifact1_before.png" alt="Artifact 1 Before" 
            style="max-width:100%; border:1px solid #ccc; border-radius:6px; margin-bottom:20px;">
     </td>
   </tr>
   <tr>
     <td style="text-align:center; padding:10px;">
-      <p><strong>After (App Implementation)</strong></p>
+      <p><strong>App Implementation</strong></p>
       <img src="images/artifact1_after.png" alt="Artifact 1 After" 
            style="max-width:100%; border:1px solid #ccc; border-radius:6px;">
     </td>
