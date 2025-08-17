@@ -77,7 +77,8 @@ These artifacts and the app itself showcase my skills in full stack development,
 </div>
 
 <p>
-TODO: Add artifact description/summary.
+TODO: Add concise description of narrative/artifact description/summary
+TODO: Add link to full narrative
 </p>
 
 
