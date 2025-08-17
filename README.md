@@ -63,7 +63,7 @@ These artifacts and the app itself showcase my skills in full stack development,
 <h3>Enhancement 1 – Software Design & Engineering</h3>
 <ul>
   <li><strong>Artifact:</strong> Ingredient Explorer – UI & Architecture</li>
-  <li><strong>Enhanced:</strong> <a href="artifacts/artifact1">View Enhanced Code</a></li>
+  <li><strong>Enhanced:</strong> <a href="artifacts">View Enhanced Code</a></li>
 </ul>
 
 <div style="margin: 20px 0; text-align: center;">
