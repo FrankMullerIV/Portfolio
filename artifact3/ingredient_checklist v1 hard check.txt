@@ -1,0 +1,234 @@
+b1: vitamin b1
+b2: vitamin b2
+b3: vitamin b3
+b7: vitamin b7
+b9: vitamin b9
+biotin: vitamin b7
+folate: vitamin b9
+folic acid: vitamin b9
+niacin: vitamin b3
+niacinamide: vitamin b3
+riboflavin: vitamin b2
+thiamine: vitamin b1
+vit b1: vitamin b1
+vit b2: vitamin b2
+vit b3: vitamin b3
+vit b7: vitamin b7
+vit b9: vitamin b9
+vit. b1: vitamin b1
+vit. b2: vitamin b2
+vit. b3: vitamin b3
+vit. b7: vitamin b7
+vit. b9: vitamin b9
+E101(ii): Riboflavin-5'-phosphate
+E102: Tartrazine
+E104: Quinoline yellow
+E110: Sunset Yellow FCF
+E120: Cochineal
+E122: Azorubine
+E124: Ponceau 4R
+E127: Erythrosine
+E129: Allura Red AC
+E131: Patent Blue V
+E132: Indigotine
+E133: Brilliant Blue FCF
+E140: Chlorophylls and chlorophyllins
+E141: Copper complexes of chlorophyll and chlorophyllins
+E142: Green S
+E150a: Plain caramel
+E150b: Caustic sulphite caramel
+E150c: Ammonia caramel
+E150d: Sulphite ammonia caramel
+E151: Brilliant Black BN
+E153: Vegetable carbon
+E155: Brown HT
+E160a: Carotenes
+E160e: Beta-apo-8'-carotenal
+E161g: Canthaxanthin
+E162: Beetroot Red
+E172: Iron oxides and hydroxides
+E173: Aluminium
+E180: Litholrubine BK
+E210: Benzoic acid
+E213: Calcium benzoate
+E214: Ethyl p-hydroxybenzoate
+E215: Sodium ethyl p-hydroxybenzoate
+E218: Methyl p-hydroxybenzoate
+E219: Sodium methyl p-hydroxybenzoate
+E221: Sodium sulphite
+E222: Sodium hydrogen sulphite
+E223: Sodium metabisulphite
+E224: Potassium metabisulphite
+E226: Calcium sulphite
+E227: Calcium hydrogen sulphite
+E228: Potassium hydrogen sulphite
+E239: Hexamethylene tetramine
+E242: Dimethyl dicarbonate
+E243: Ethyl lauroyl arginate
+E249: Potassium nitrite
+E251: Sodium nitrate
+E283: Potassium propionate
+E284: Boric acid
+E285: Sodium tetraborate
+E300: Ascorbic acid
+E304: Fatty acid esters of ascorbic acid
+E307: Alpha-tocopherol
+E308: Gamma-tocopherol
+E309: Delta-tocopherol
+E319: Tertiary-butyl hydroquinone
+E320: Butylated hydroxyanisole
+E321: Butylated hydroxytoluene
+E392: Extracts of rosemary
+E586: 4-Hexylresorcinol
+E952: Cyclamic acid and its Na and Ca salts
+E954: Saccharin and its Na, K and Ca salts
+E957: Thaumatin
+E959: Neohesperidine DC
+E960a: Steviol glycosides from stevia
+E960b: Steviol glycosides from fermentation
+E960c: Enzymatically produced steviol glycosides
+E960d: Glucosylated steviol glycosides
+E962: Salt of aspartame-acesulfame
+E969: Advantame
+E322: Lecithins
+E403: Ammonium alginate
+E404: Calcium alginate
+E405: Propane-1,2-diol alginate
+E407a: Processed eucheuma seaweed
+E414: Acacia gum
+E426: Soybean hemicellulose
+E432: Polysorbate 20
+E433: Polysorbate 80
+E434: Polysorbate 40
+E435: Polysorbate 60
+E436: Polysorbate 65
+E440: Pectins
+E442: Ammonium phosphatides
+E445: Glycerol esters of wood rosins
+E461: Methyl cellulose
+E464: Hydroxypropyl methyl cellulose
+E465: Ethyl methyl cellulose
+E466: Carboxy methyl cellulose
+E468: Crosslinked sodium carboxy methyl cellulose
+E469: Enzymatically hydrolysed carboxy methyl cellulose
+E470b: Magnesium salts of fatty acids
+E471: Mono- and diglycerides of fatty acids
+E472a: Acetic acid esters of mono- and diglycerides of fatty acids
+E472b: Lactic acid esters of mono- and diglycerides of fatty acids
+E472c: Citric acid esters of mono- and diglycerides of fatty acids
+E472d: Tartaric acid esters of mono- and diglycerides of fatty acids
+E472e: Mono- and diacetyltartaric acid esters of mono- and diglycerides of fatty acids
+E472f: Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids
+E473: Sucrose esters of fatty acids
+E474: Sucroglycerides
+E475: Polyglycerol esters of fatty acids
+E477: Propane-1,2-diol esters of fatty acids
+E479b: Thermally oxidised soya bean oil interacted with mono and diglycerides of fatty acids
+E481: Sodium stearoyl-2-lactylate
+E482: Calcium stearoyl-2-lactylate
+E483: Stearyl tartrate
+E493: Sorbitan monolaurate
+E494: Sorbitan monooleate
+E495: Sorbitan monopalmitate
+E290: Carbon dioxide
+E331: Sodium citrates
+E332: Potassium citrates
+E333: Calcium citrates
+E335: Sodium tartrates
+E336: Potassium tartrates
+E337: Sodium potassium tartrate
+E339: Sodium phosphates
+E340: Potassium phosphates
+E341: Calcium phosphates
+E343: Magnesium phosphates
+E350: Sodium malates
+E351: Potassium malate
+E352: Calcium malates
+E353: Metatartaric acid
+E354: Calcium tartrate
+E356: Sodium adipate
+E357: Potassium adipate
+E380: Triammonium citrate
+E385: Calcium disodium EDTA
+E422: Glycerol
+E423: Octenyl succinic acid modified gum Arabic
+E450: Diphosphates
+E451: Triphosphates
+E452: Polyphosphates
+E459: Beta-cyclodextrin
+E499: Stigmasterol-rich plant sterols
+E500: Sodium carbonates
+E501: Potassium carbonates
+E503: Ammonium carbonates
+E504: Magnesium carbonates
+E507: Hydrochloric acid
+E511: Magnesium chloride
+E512: Stannous chloride
+E513: Sulphuric acid
+E514: Sodium sulphates
+E515: Potassium sulphates
+E516: Calcium sulphate
+E517: Ammonium sulphate
+E520: Aluminium sulphate
+E521: Aluminium sodium sulphate
+E522: Aluminium potassium sulphate
+E523: Aluminium ammonium sulphate
+E527: Ammonium hydroxide
+E536: Potassium ferrocyanide
+E538: Calcium ferrocyanide
+E541: Sodium aluminium phosphate
+E553a: Magnesium silicate
+E554: Sodium aluminium silicate
+E555: Potassium aluminium silicate
+E570: Fatty acids
+E575: Glucono delta-lactone
+E577: Potassium gluconate
+E623: Calcium diglutamate
+E624: Monoammonium glutamate
+E625: Magnesium diglutamate
+E626: Guanylic acid
+E628: Dipotassium guanylate
+E629: Calcium guanylate
+E630: Inosinic acid
+E632: Dipotassium inosinate
+E633: Calcium inosinate
+E634: Calcium 5'-ribonucleotides
+E635: Disodium 5'-ribonucleotides
+E640: Glycine and its sodium salt
+E641: L-leucine
+E650: Zinc acetate
+E902: Candelilla wax
+E903: Carnauba wax
+E905: Microcrystalline wax
+E907: Hydrogenated Poly-1-Decene
+E914: Oxidised Polyethylene wax
+E920: L-Cysteine
+E927b: Carbamide
+E938: Argon
+E939: Helium
+E943a: Butane
+E943b: Iso-butane
+E949: Hydrogen
+E999: Quillaia extract
+E1202: Polyvinylpolypyrrolidone
+E1203: Polyvinyl alcohol
+E1205: Basic methacrylate copolymer
+E1206: Neutral methacrylate copolymer
+E1207: Anionic methacrylate copolymer
+E1208: Polyvinylpyrrolidone-vinyl acetate copolymer
+E1209: Polyvinyl alcohol-polyethylene glycol-graft-co-polymer
+E1404: Oxidised starch
+E1410: Monostarch phosphate
+E1412: Distarch phosphate
+E1413: Phosphated distarch phosphate
+E1414: Acetylated distarch phosphate
+E1420: Acetylated starch
+E1422: Acetylated distarch adipate
+E1440: Hydroxyl propyl starch
+E1442: Hydroxy propyl distarch phosphate
+E1450: Starch sodium octenyl succinate
+E1451: Acetylated oxidised starch
+E1452: Starch aluminium Octenyl succinate
+E1517: Glyceryl diacetate
+E1518: Glyceryl triacetate
+E1519: Benzyl alcohol

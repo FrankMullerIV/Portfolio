@@ -1,0 +1,257 @@
+[
+    {
+        "ingredient": "This file is trimmed to the new additions",
+        "description": "Because its a bit too long to read",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Zucchini",
+        "description": "Zucchini is a vegetable and considered a small summer squash.",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Zirconium",
+        "description": "Zirconium is a chemical element and transition metal.",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Quinoline Yellow",
+        "description": "Quinoline Yellow (E104) is a synthetic yellow food dye used to color beverages, candies, and processed foods. It is produced from coal tar derivatives. While approved in some countries, it is restricted or banned in others due to possible allergic reactions.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Sunset Yellow FCF",
+        "description": "Sunset Yellow FCF (E110) is an artificial orange-yellow food dye used in soft drinks, sweets, and snacks. It is made from petroleum-derived compounds. Some individuals may experience hypersensitivity reactions.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Azorubine",
+        "description": "Azorubine (E122) is a synthetic red food colorant used in bakery products, desserts, and beverages. It is manufactured from petroleum sources. Some people may have allergic reactions, especially those sensitive to aspirin.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Ponceau 4R",
+        "description": "Ponceau 4R (E124) is a synthetic red azo dye used to impart a red color to foods and beverages. It is chemically synthesized and regulated due to potential allergic reactions in susceptible individuals.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Allura Red AC",
+        "description": "Allura Red AC (E129) is a synthetic red food dye commonly found in candies, beverages, and processed snacks. Produced from petroleum sources, it is approved in many countries but may cause allergic responses in some consumers.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Patent Blue V",
+        "description": "Patent Blue V (E131) is a synthetic blue food dye used mainly in desserts and drinks. It is produced from organic chemical compounds. Some people may experience hypersensitivity or allergic reactions.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Brilliant Blue FCF",
+        "description": "Brilliant Blue FCF (E133) is a synthetic blue dye used to color beverages, confections, and dairy products. It is produced from petrochemical sources. It is generally considered safe, but excessive intake should be avoided.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Chlorophylls and Chlorophyllins",
+        "description": "Chlorophylls and Chlorophyllins (E140) are natural green pigments extracted from plants, used to color foods like oils, liqueurs, and dairy products. Sourced from leafy vegetables and grass, they are generally safe for consumption.",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Plain Caramel",
+        "description": "Plain Caramel (E150a) is a brown coloring agent made by heating sugar, used in soft drinks, sauces, and baked goods. It is produced by controlled heat treatment of carbohydrates. Considered safe, but excessive consumption should be avoided.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Caustic Sulphite Caramel",
+        "description": "Caustic Sulphite Caramel (E150b) is a caramel color produced by heating sugars in the presence of sulphite compounds. It is widely used in beverages and sauces. Safe for most, but may not be suitable for those with sulfite sensitivity.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Ammonia Caramel",
+        "description": "Ammonia Caramel (E150c) is a caramel coloring made by heating sugars with ammonia compounds. It is used in colas, sauces, and baked goods. Safe for most, but can cause reactions in sensitive individuals.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Sulphite Ammonia Caramel",
+        "description": "Sulphite Ammonia Caramel (E150d) is produced by heating sugars with ammonia and sulfite. Used as a colorant in beverages and foods. Considered safe except for those with ammonia or sulfite sensitivities.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Brilliant Black BN",
+        "description": "Brilliant Black BN (E151) is an artificial black dye used in licorice, caviar, and other foods. It is synthesized from organic chemicals. Some countries have restrictions due to possible allergic reactions.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Beta-apo-8'-carotenal",
+        "description": "Beta-apo-8'-carotenal (E160e) is an orange food colorant obtained from carotenoids, found naturally in plants but also produced synthetically. Used in drinks, dairy, and snacks. Generally safe for consumption.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Beetroot Red",
+        "description": "Beetroot Red (E162) is a natural red color extracted from beetroot. Used in yogurts, sweets, and beverages. It is considered safe and may provide some antioxidants.",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Litholrubine BK",
+        "description": "Litholrubine BK (E180) is a synthetic red dye used primarily for coloring the rind of certain cheeses. It is produced chemically and its use is restricted to surface coloring. Considered safe within permitted uses.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Ethyl p-hydroxybenzoate",
+        "description": "Ethyl p-hydroxybenzoate (E214) is a preservative used in foods and cosmetics to inhibit mold and yeast. It is synthesized chemically. Some people may experience allergic reactions.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Methyl p-hydroxybenzoate",
+        "description": "Methyl p-hydroxybenzoate (E218) is a synthetic preservative used to prevent spoilage from bacteria and fungi. Common in baked goods and beverages. May cause allergic reactions in sensitive individuals.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Hexamethylene Tetramine",
+        "description": "Hexamethylene Tetramine (E239) is a synthetic preservative used in certain cheeses to inhibit bacterial growth. Produced chemically, it is permitted only in limited quantities. High intake may pose health risks.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Dimethyl Dicarbonate",
+        "description": "Dimethyl Dicarbonate (E242) is a chemical preservative used mainly in soft drinks and wine to inhibit microbial growth. It is synthesized industrially and degrades to harmless products in the final food.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Ethyl Lauroyl Arginate",
+        "description": "Ethyl Lauroyl Arginate (E243) is a synthetic preservative used in meat, fish, and bakery products to control bacteria. It is produced from natural amino acids and fatty acids via chemical processes.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Fatty Acid Esters of Ascorbic Acid",
+        "description": "Fatty Acid Esters of Ascorbic Acid (E304) are antioxidant additives created by combining ascorbic acid (vitamin C) with fatty acids, helping to prevent oxidation in fats and oils. Produced from plant sources or synthesized.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Alpha-tocopherol",
+        "description": "Alpha-tocopherol (E307) is a form of vitamin E used as an antioxidant in food products, sourced from vegetable oils or produced synthetically. It helps preserve fats and extend shelf life.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Gamma-tocopherol",
+        "description": "Gamma-tocopherol (E308) is a type of vitamin E that functions as an antioxidant in foods. It is obtained from vegetable oils or produced industrially. Used to maintain product freshness.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Delta-tocopherol",
+        "description": "Delta-tocopherol (E309) is a vitamin E compound used as an antioxidant to preserve fats in foods. Sourced from plant oils or synthesized. Supports product shelf life.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Tertiary-butyl hydroquinone",
+        "description": "Tertiary-butyl hydroquinone (TBHQ, E319) is a synthetic antioxidant added to oils and fats to prevent rancidity. Produced from chemical sources. Generally considered safe in permitted amounts, but high doses may be harmful.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Butylated Hydroxyanisole",
+        "description": "Butylated Hydroxyanisole (BHA, E320) is a synthetic antioxidant used to preserve fats and oils in processed foods. Made from petroleum derivatives. Safe in low quantities but controversial at high intake levels.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Butylated Hydroxytoluene",
+        "description": "Butylated Hydroxytoluene (BHT, E321) is a synthetic antioxidant used in snacks, cereals, and chewing gum. Produced from petrochemical sources. Generally recognized as safe at regulated levels.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "4-Hexylresorcinol",
+        "description": "4-Hexylresorcinol (E586) is a synthetic antioxidant used in shrimp, potatoes, and other foods to prevent browning. Manufactured chemically. Safe in small quantities, but long-term effects are still studied.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Steviol glycosides from fermentation",
+        "description": "Steviol glycosides from fermentation (E960b) are sweeteners produced by fermenting yeast or bacteria to generate steviol glycosides, chemically identical to those from stevia plants. Used in sugar-free and reduced-calorie foods.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Enzymatically produced steviol glycosides",
+        "description": "Enzymatically produced steviol glycosides (E960c) are low-calorie sweeteners made by enzymatically modifying stevia plant extracts. Used in beverages and snacks for sweetness without added sugar.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Glucosylated steviol glycosides",
+        "description": "Glucosylated steviol glycosides (E960d) are sweeteners created by adding glucose units to steviol glycosides via enzymatic processes. Used to improve the taste profile of stevia-based sweeteners.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Glycerol esters of wood rosins",
+        "description": "Glycerol esters of wood rosins (E445) are stabilizers used in citrus-flavored soft drinks to keep oils suspended. Made by combining glycerol with purified wood rosin, usually sourced from pine trees.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Stearyl tartrate",
+        "description": "Stearyl tartrate (E483) is an emulsifier used in baked goods to improve texture and shelf life. Produced by esterifying tartaric acid with stearyl alcohol, which can be plant-derived or synthetic.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Carbon dioxide",
+        "description": "Carbon dioxide (E290) is a naturally occurring gas used to carbonate beverages and as a propellant in food packaging. Sourced from natural wells or produced industrially. Safe and non-toxic in food use.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Hydrochloric acid",
+        "description": "Hydrochloric acid (E507) is a strong acid used in food processing to adjust pH and as a processing aid. Produced industrially by dissolving hydrogen chloride gas in water. Safe in regulated amounts.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Stannous chloride",
+        "description": "Stannous chloride (E512) is a chemical additive used as a color stabilizer in canned vegetables. Made by reacting tin with hydrochloric acid. Permitted in limited quantities.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Sulphuric acid",
+        "description": "Sulphuric acid (E513) is a strong acid used in sugar refining and other food processes as a processing aid. Produced industrially from sulfur. Safe at permitted levels, not present in final food.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Candelilla wax",
+        "description": "Candelilla wax (E902) is a natural wax obtained from the leaves of the candelilla shrub, used as a coating agent for fruits, candies, and chewing gum. Sourced by boiling the plant in water.",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Carnauba wax",
+        "description": "Carnauba wax (E903) is a hard, natural wax obtained from the leaves of the Brazilian carnauba palm. Used as a glazing agent in candies, bakery goods, and fruit coatings.",
+        "classification": "Natural"
+    },
+    {
+        "ingredient": "Microcrystalline wax",
+        "description": "Microcrystalline wax (E905) is a food-grade wax derived from petroleum, used as a coating for cheese, fruits, and confectionery. Produced by refining crude oil. Safe when used as directed.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Hydrogenated Poly-1-Decene",
+        "description": "Hydrogenated Poly-1-Decene (E907) is a synthetic wax used as a glazing agent in confectionery and bakery products. Produced by hydrogenating polydecene derived from petrochemicals.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Oxidised Polyethylene wax",
+        "description": "Oxidised Polyethylene wax (E914) is a synthetic wax used as a glazing or coating agent in foods. Made by oxidizing polyethylene, a petroleum-based polymer.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Basic methacrylate copolymer",
+        "description": "Basic methacrylate copolymer (E1205) is a synthetic polymer used as a glazing agent and film former in dietary supplements and food coatings. Produced by polymerizing methacrylic acid esters.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Neutral methacrylate copolymer",
+        "description": "Neutral methacrylate copolymer (E1206) is a synthetic polymer additive used as a coating agent in food supplements and pharmaceuticals. Produced by polymerizing neutral methacrylic esters.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Anionic methacrylate copolymer",
+        "description": "Anionic methacrylate copolymer (E1207) is a synthetic polymer used as a film-forming agent in food coatings and supplements. Created by polymerizing anionic methacrylic acid derivatives.",
+        "classification": "Artificial"
+    },
+    {
+        "ingredient": "Glyceryl diacetate",
+        "description": "Glyceryl diacetate (E1517) is an emulsifier and solvent used in foods to stabilize mixtures and maintain texture. Produced by esterifying glycerol with acetic acid, sourced from plant or synthetic origins.",
+        "classification": "Both"
+    },
+    {
+        "ingredient": "Glyceryl triacetate",
+        "description": "Glyceryl triacetate (E1518), also known as triacetin, is an emulsifier, solvent, and humectant used in foods and chewing gum. Produced by combining glycerol and acetic acid. Safe at regulated levels.",
+        "classification": "Both"
+    }
+]

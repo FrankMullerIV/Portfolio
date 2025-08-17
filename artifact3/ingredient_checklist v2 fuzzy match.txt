@@ -1,0 +1,48 @@
+E104: Quinoline yellow
+E110: Sunset Yellow FCF
+E122: Azorubine
+E124: Ponceau 4R
+E129: Allura Red AC
+E131: Patent Blue V
+E133: Brilliant Blue FCF
+E140: Chlorophylls and chlorophyllins
+E150a: Plain caramel
+E150b: Caustic sulphite caramel
+E150c: Ammonia caramel
+E150d: Sulphite ammonia caramel
+E151: Brilliant Black BN
+E160e: Beta-apo-8'-carotenal
+E162: Beetroot Red
+E180: Litholrubine BK
+E214: Ethyl p-hydroxybenzoate
+E218: Methyl p-hydroxybenzoate
+E239: Hexamethylene tetramine
+E242: Dimethyl dicarbonate
+E243: Ethyl lauroyl arginate
+E304: Fatty acid esters of ascorbic acid
+E307: Alpha-tocopherol
+E308: Gamma-tocopherol
+E309: Delta-tocopherol
+E319: Tertiary-butyl hydroquinone
+E320: Butylated hydroxyanisole
+E321: Butylated hydroxytoluene
+E586: 4-Hexylresorcinol
+E960b: Steviol glycosides from fermentation
+E960c: Enzymatically produced steviol glycosides
+E960d: Glucosylated steviol glycosides
+E445: Glycerol esters of wood rosins
+E483: Stearyl tartrate
+E290: Carbon dioxide
+E507: Hydrochloric acid
+E512: Stannous chloride
+E513: Sulphuric acid
+E902: Candelilla wax
+E903: Carnauba wax
+E905: Microcrystalline wax
+E907: Hydrogenated Poly-1-Decene
+E914: Oxidised Polyethylene wax
+E1205: Basic methacrylate copolymer
+E1206: Neutral methacrylate copolymer
+E1207: Anionic methacrylate copolymer
+E1517: Glyceryl diacetate
+E1518: Glyceryl triacetate
