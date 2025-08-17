@@ -63,7 +63,7 @@ These artifacts and the app itself showcase my skills in full stack development,
 <h3>Enhancement 1 – Software Design & Engineering</h3>
 <ul>
   <li><strong>Artifact:</strong> Ingredient Explorer – UI & Architecture</li>
-  <li><strong>Enhanced:</strong> <a href="artifacts">View Enhanced Code</a></li>
+  <li><strong>Enhanced:</strong> <a href="artifact1">View Enhanced Code</a></li>
 </ul>
 
 <div style="margin: 20px 0; text-align: center;">
@@ -84,8 +84,8 @@ This artifact originally implemented basic UI features. In the enhanced version,
 <h3>Enhancement 2 – Algorithms & Data Structures</h3>
 <ul>
   <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <li><strong>Original:</strong> <a href="#">Link to original code</a></li>
-  <li><strong>Enhanced:</strong> <a href="#">Link to enhanced code</a></li>
+  <li><strong>Original:</strong> <a href="artifact2">Link to original code</a></li>
+  <li><strong>Enhanced:</strong> <a href="artifact2">Link to enhanced code</a></li>
 </ul>
 <p>
 Brief description of algorithmic improvements, efficiency gains, and skills demonstrated.
@@ -94,8 +94,8 @@ Brief description of algorithmic improvements, efficiency gains, and skills demo
 <h3>Enhancement 3 – Databases</h3>
 <ul>
   <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <li><strong>Original:</strong> <a href="#">Link to original code</a></li>
-  <li><strong>Enhanced:</strong> <a href="#">Link to enhanced code</a></li>
+  <li><strong>Original:</strong> <a href="artifact3">Link to original code</a></li>
+  <li><strong>Enhanced:</strong> <a href="artifact3">Link to enhanced code</a></li>
 </ul>
 <p>
 Brief description of database enhancements, technologies used, and skills demonstrated.
