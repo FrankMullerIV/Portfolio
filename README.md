@@ -58,49 +58,92 @@ These artifacts and the app itself showcase my skills in full stack development,
 <hr>
 
 <h2>Enhanced Artifacts</h2>
-<!-- Keep your artifact sections here as you had them -->
 
 <h3>Enhancement 1 – Software Design & Engineering</h3>
 <ul>
   <li><strong>Artifact:</strong> Ingredient Explorer – UI & Architecture</li>
-  <li><strong>Enhanced:</strong> <a href="artifact1">View Enhanced Code</a></li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact1/Artifact1%20QR%20Codes%20Narrative.pdf">Enhancement Narrative</a></li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact1">View Files</a></li>
+  
 </ul>
-
-<div style="margin: 20px 0; text-align: center;">
-  <p><strong>Before (Design Wireframe)</strong></p>
-  <img src="images/artifact1_before.png" alt="Artifact 1 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 20px;">
-
-  <p><strong>After (In-App)</strong></p>
-  <img src="images/artifact1_after.png" alt="Artifact 1 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
-</div>
-
-</div>
 
 <p>
 TODO: Add concise description of narrative/artifact description/summary
-TODO: Add link to full narrative
 </p>
+
+<table>
+  <tr>
+    <td style="text-align:center; padding:10px;">
+      <p><strong>Before (Design Wireframe)</strong></p>
+      <img src="images/artifact1_before.png" alt="Artifact 1 Before" 
+           style="max-width:100%; border:1px solid #ccc; border-radius:6px; margin-bottom:20px;">
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center; padding:10px;">
+      <p><strong>After</strong></p>
+      <img src="images/artifact1_after.png" alt="Artifact 1 After" 
+           style="max-width:100%; border:1px solid #ccc; border-radius:6px;">
+    </td>
+  </tr>
+</table>
+
+<p>
+Brief description of the artifact, enhancements made, and skills demonstrated.
+</p>
+
+
 
 
 <h3>Enhancement 2 – Algorithms & Data Structures</h3>
 <ul>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact2">Artifact Code / Files</a></li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact2/Artifact2%20OCR%20Narrative.pdf">Artifact Enhancement Narrative</a></li>
   <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <img src="images/artifact2_before.png" alt="Artifact 2 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
-  <img src="images/artifact2_after.png" alt="Artifact 2 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
 </ul>
+
+<table>
+  <tr>
+    <td style="text-align:center; padding:10px;">
+      <p><strong>Before</strong></p>
+      <img src="images/artifact2_before2.png" alt="Artifact 2 Before" 
+           style="max-width:100%; border:1px solid #ccc; border-radius:6px;">
+    </td>
+    <td style="text-align:center; padding:10px;">
+      <p><strong>After</strong></p>
+      <img src="images/artifact2_after.png" alt="Artifact 2 After" 
+           style="max-width:100%; border:1px solid #ccc; border-radius:6px;">
+    </td>
+  </tr>
+</table>
+
 <p>
 Brief description of algorithmic improvements, efficiency gains, and skills demonstrated.
 </p>
 
+
 <h3>Enhancement 3 – Databases</h3>
 <ul>
   <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <img src="images/artifact3_before.png" alt="Artifact 3 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
-  <img src="images/artifact3_after.png" alt="Artifact 3 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/tree/main/artifact3">Artifact Code / Files</a></li>
+  <li><a href="https://github.com/FrankMullerIV/Portfolio/blob/main/artifact3/Artifact3%20E%20Number%20Narrative.pdf">Artifact Enhancement Narrative</a></li>
 </ul>
-<p>
-Brief description of database enhancements, technologies used, and skills demonstrated.
-</p>
+
+<table>
+  <tr>
+    <td style="text-align:center;">
+      <p><strong>Before</strong></p>
+      <img src="images/artifact3_before.png" alt="Artifact 3 Before" />
+    </td>
+    <td style="text-align:center;">
+      <p><strong>After</strong></p>
+      <img src="images/artifact3_after.png" alt="Artifact 3 After" />
+    </td>
+  </tr>
+</table>
+
+<p>Brief description of database enhancements, technologies used, and skills demonstrated.</p>
+
 
 <hr>
 
