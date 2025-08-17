@@ -67,17 +67,17 @@ These artifacts and the app itself showcase my skills in full stack development,
 </ul>
 
 <div style="margin: 20px 0; text-align: center;">
-  <p><strong>Before</strong></p>
+  <p><strong>Before (Design Wireframe)</strong></p>
   <img src="images/artifact1_before.png" alt="Artifact 1 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px; margin-bottom: 20px;">
 
-  <p><strong>After</strong></p>
+  <p><strong>After (In-App)</strong></p>
   <img src="images/artifact1_after.png" alt="Artifact 1 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
 </div>
 
 </div>
 
 <p>
-This artifact originally implemented basic UI features. In the enhanced version, I refactored the architecture to use MVC, improved usability, and added database integration.  
+TODO: Add artifact description/summary.
 </p>
 
 
