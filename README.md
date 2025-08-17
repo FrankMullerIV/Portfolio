@@ -62,13 +62,25 @@ These artifacts and the app itself showcase my skills in full stack development,
 
 <h3>Enhancement 1 – Software Design & Engineering</h3>
 <ul>
-  <li><strong>Artifact:</strong> <em>Project Name</em></li>
-  <li><strong>Original:</strong> <a href="#">Link to original code</a></li>
-  <li><strong>Enhanced:</strong> <a href="#">Link to enhanced code</a></li>
+  <li><strong>Artifact:</strong> Ingredient Explorer – UI & Architecture</li>
+  <li><strong>Enhanced:</strong> <a href="artifacts/artifact1/enhanced/">View Enhanced Code</a></li>
 </ul>
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; margin: 10px 0;">
+  <div style="flex: 1; text-align: center;">
+    <p><strong>Before</strong></p>
+    <img src="images/artifact1_before.png" alt="Artifact 1 Before" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <p><strong>After</strong></p>
+    <img src="images/artifact1_after.png" alt="Artifact 1 After" style="max-width: 100%; border: 1px solid #ccc; border-radius: 6px;">
+  </div>
+</div>
+
 <p>
-Brief description of original functionality, enhancements made, skills demonstrated, and course outcome alignment.
+This artifact originally implemented basic UI features. In the enhanced version, I refactored the architecture to use MVC, improved usability, and added database integration.  
 </p>
+
 
 <h3>Enhancement 2 – Algorithms & Data Structures</h3>
 <ul>
